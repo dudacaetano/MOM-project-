@@ -31,7 +31,7 @@ pip install -r requirements.txt
 python client.py
 ```
 
-### Iniciando Sensor:
+## Iniciando Sensor:
 
 ```bash
 python sensor.py
